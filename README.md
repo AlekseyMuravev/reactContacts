@@ -1,2 +1,5 @@
-# reactContacts
-как запустить написано в readme в самом проекте. ну либо откройте package.json))
+логин  admin
+пароль admin
+
+запуск клиента      : npm start
+запуск json-server  : npm run json-server
